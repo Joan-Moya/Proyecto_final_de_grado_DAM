@@ -1,2 +1,7 @@
-En esta sección subo las actividades realizadas durante el segundo año del grado superior de "Desarrollo de aplicaciones multiplataforma"
+En esta sección subo el proyecto del grado superior de "Desarrollo de aplicaciones multiplataforma"
 
+Podemos encontrar:
+  -Memoria
+  -Servicio web
+  -Api del servicio
+  -Video demostración
